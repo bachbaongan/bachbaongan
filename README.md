@@ -9,7 +9,7 @@
 
 🌟 Let's connect, collaborate, and together, we can uncover the hidden stories within the numbers. Feel free to explore my GitHub repositories and reach out for exciting data projects!
 
-📧 Connect with me on LinkedIn [LinkedIn](http://www.linkedin.com/in/clarabach).
+📧 Connect with me on [LinkedIn](http://www.linkedin.com/in/clarabach).
 
 ## ✍️ Data project: 
 

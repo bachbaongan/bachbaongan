@@ -12,7 +12,7 @@
 ## ✍️ Data project: 
 Welcome to my portfolio, where I exhibit my [projects](https://github.com/bachbaongan/Portfolio) and accomplishments.
 
-## 🛠️ Tools
+## ⚙️ Tools
 
 * Language: SQL, Python
 * Database: Google BigQuery, PostgreSQL, MySQL

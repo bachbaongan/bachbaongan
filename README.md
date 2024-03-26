@@ -14,7 +14,7 @@ Welcome to my portfolio, where I exhibit my [projects](https://github.com/bachba
 
 ## ⚙️ Tools
 
-* Language: SQL, Python
+* Language: SQL, Python, R
 * Database: Google BigQuery, PostgreSQL, MySQL
 * Visualization: [Tableau](https://public.tableau.com/app/profile/clara.bach/vizzes)
 

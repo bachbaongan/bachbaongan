@@ -10,7 +10,7 @@
 📧 Connect with me on [LinkedIn](http://www.linkedin.com/in/clarabach).
 
 ## ✍️ Data project: 
-Welcome to my portfolio, where I exhibit my [projects](https://github.com/bachbaongan/Portfolio) and accomplishments.
+Welcome to my [portfolio](https://github.com/bachbaongan/Portfolio), where I exhibit my projects and accomplishments.
 
 ## ⚙️ Tools
 

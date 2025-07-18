@@ -20,7 +20,7 @@ I am committed to continuous learning and staying up-to-date with the latest adv
 
 ## ✍️ Projects
 
-This repository showcases a collection of projects demonstrating my capabilities in **[SQL](https://github.com/bachbaongan/Portfolio/blob/main/README.md#sql)**, **[Python](https://github.com/bachbaongan/Portfolio/blob/main/README.md#python)**, **[R](https://github.com/bachbaongan/Portfolio/blob/main/README.md#r)**, and **[Tableau](https://public.tableau.com/app/profile/clara.bach/vizzes)**. You can find detailed descriptions and code for each project on the dedicated [Portfolio](https://github.com/bachbaongan/Portfolio) page.
+This repository showcases a collection of projects demonstrating my capabilities in **[SQL](https://github.com/bachbaongan/Portfolio/blob/main/README.md#sql)**, **[Python](https://github.com/bachbaongan/Portfolio/blob/main/README.md#python)**, **[R](https://github.com/bachbaongan/Portfolio/blob/main/README.md#r)**, and **[Tableau](https://public.tableau.com/app/profile/clara.bach/vizzes)**. You can find detailed descriptions and code for each project on the dedicated **[Portfolio](https://github.com/bachbaongan/Portfolio)** page.
 
 
 

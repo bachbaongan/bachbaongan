@@ -5,7 +5,7 @@
 
 I am a highly motivated data enthusiast with a strong foundation in finance and banking principles. My passion lies in leveraging data to uncover actionable insights and drive informed decision-making. I possess a keen analytical mindset and a proactive approach to problem-solving, consistently seeking opportunities to apply data analysis techniques to real-world challenges. I am eager to contribute my skills to a dynamic team and further develop my expertise in the field of data science. I am particularly interested in roles focused on financial data analysis, modelling, and visualization. 
 
-Connect with me on [LinkedIn](http://www.linkedin.com/in/clarabach)) to learn more about my experience and network!
+Connect with me on [LinkedIn](http://www.linkedin.com/in/clarabach) to learn more about my experience and network!
 
 ## Skills
 
@@ -20,7 +20,11 @@ I am committed to continuous learning and staying up-to-date with the latest adv
 
 ## Projects
 
-This repository showcases a collection of projects demonstrating my capabilities in **[SQL](https://github.com/bachbaongan/Portfolio/blob/main/README.md#sql)**, **[Python](https://github.com/bachbaongan/Portfolio/blob/main/README.md#python)**, **[R](https://github.com/bachbaongan/Portfolio/blob/main/README.md#r)**, and **[Tableau](https://public.tableau.com/app/profile/clara.bach/vizzes)**. You can find detailed descriptions and code for each project on the dedicated [Projects]([Link to your Projects directory/page]) page.
+This repository showcases a collection of projects demonstrating my capabilities in **[SQL](https://github.com/bachbaongan/Portfolio/blob/main/README.md#sql)**, **[Python](https://github.com/bachbaongan/Portfolio/blob/main/README.md#python)**, **[R](https://github.com/bachbaongan/Portfolio/blob/main/README.md#r)**, and **[Tableau](https://public.tableau.com/app/profile/clara.bach/vizzes)**. You can find detailed descriptions and code for each project on the dedicated [Portfolio](https://github.com/bachbaongan/Portfolio) page.
+
+
+
+
 📊 As a data enthusiast with a background in finance and banking, I'm deeply passionate about transforming numbers into actionable insights. I'm on a journey to build expertise in this field, eager to embrace the challenges of deciphering financial data and using it to make informed decisions.
 
 💼 While my professional journey is just beginning, I'm committed to learning and growing in the world of financial data analysis, modelling, and visualization. I'm excited about exploring new technologies and methodologies to make a meaningful impact in the industry.

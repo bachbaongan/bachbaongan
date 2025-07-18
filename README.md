@@ -22,29 +22,3 @@ I am committed to continuous learning and staying up-to-date with the latest adv
 
 This repository showcases a collection of projects demonstrating my capabilities in **[SQL](https://github.com/bachbaongan/Portfolio/blob/main/README.md#sql)**, **[Python](https://github.com/bachbaongan/Portfolio/blob/main/README.md#python)**, **[R](https://github.com/bachbaongan/Portfolio/blob/main/README.md#r)**, and **[Tableau](https://public.tableau.com/app/profile/clara.bach/vizzes)**. You can find detailed descriptions and code for each project on the dedicated **[Portfolio](https://github.com/bachbaongan/Portfolio)** page.
 
-
-
-
-📊 As a data enthusiast with a background in finance and banking, I'm deeply passionate about transforming numbers into actionable insights. I'm on a journey to build expertise in this field, eager to embrace the challenges of deciphering financial data and using it to make informed decisions.
-
-💼 While my professional journey is just beginning, I'm committed to learning and growing in the world of financial data analysis, modelling, and visualization. I'm excited about exploring new technologies and methodologies to make a meaningful impact in the industry.
-
-🌟 Let's connect, collaborate, and together, we can uncover the hidden stories within the numbers. Feel free to explore my GitHub repositories and reach out for exciting data projects!
-
-📧 Connect with me on [LinkedIn](http://www.linkedin.com/in/clarabach).
-
-## ✍️ Data project: 
-Welcome to my [portfolio](https://github.com/bachbaongan/Portfolio), where I exhibit my projects and accomplishments.
-
-## ⚙️ Tools
-
-* Language: [SQL](https://github.com/bachbaongan/Portfolio/blob/main/README.md#sql), [Python](https://github.com/bachbaongan/Portfolio/blob/main/README.md#python), [R](https://github.com/bachbaongan/Portfolio/blob/main/README.md#r)
-* Visualization: [Tableau](https://public.tableau.com/app/profile/clara.bach/vizzes)
-* Database: Google BigQuery, PostgreSQL, MySQL
-
-# Data Analyst Portfolio - [Your Name]
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/v1/?username=[Clara Bach]&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Languages](https://img.shields.io/github/languages/top/Your GitHub Username?style=flat)](https://github.com/Your GitHub Username)
-
-

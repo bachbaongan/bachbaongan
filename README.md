@@ -1,5 +1,5 @@
 
-👋 Hello, I'm Clara Bach!
+# 👋 Hello, I'm Clara Bach!
 
 ## 🌟 About Me
 

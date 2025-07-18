@@ -15,6 +15,6 @@ Welcome to my [portfolio](https://github.com/bachbaongan/Portfolio), where I exh
 ## ⚙️ Tools
 
 * Language: [SQL](https://github.com/bachbaongan/Portfolio/blob/main/README.md#sql), [Python](https://github.com/bachbaongan/Portfolio/blob/main/README.md#python), [R](https://github.com/bachbaongan/Portfolio/blob/main/README.md#r)
-* Database: Google BigQuery, PostgreSQL, MySQL
 * Visualization: [Tableau](https://public.tableau.com/app/profile/clara.bach/vizzes)
+* Database: Google BigQuery, PostgreSQL, MySQL
 

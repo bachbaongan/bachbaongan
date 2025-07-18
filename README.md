@@ -1,13 +1,13 @@
 
 👋 Hello, I'm Clara Bach!
 
-## About Me
+## 🌟 About Me
 
 I am a highly motivated data enthusiast with a strong foundation in finance and banking principles. My passion lies in leveraging data to uncover actionable insights and drive informed decision-making. I possess a keen analytical mindset and a proactive approach to problem-solving, consistently seeking opportunities to apply data analysis techniques to real-world challenges. I am eager to contribute my skills to a dynamic team and further develop my expertise in the field of data science. I am particularly interested in roles focused on financial data analysis, modelling, and visualization. 
 
 Connect with me on [LinkedIn](http://www.linkedin.com/in/clarabach) to learn more about my experience and network!
 
-## Skills
+## ⚙️ Skills
 
 My skillset is built upon a combination of financial domain knowledge and robust technical capabilities. I am proficient in extracting, cleaning, transforming, and analyzing data using a variety of tools and techniques. 
 
@@ -18,7 +18,7 @@ My skillset is built upon a combination of financial domain knowledge and robust
 
 I am committed to continuous learning and staying up-to-date with the latest advancements in **data analysis** and **data visualization** techniques. I am eager to apply my skills to solve challenging problems and contribute to data-driven decision-making.
 
-## Projects
+## ✍️ Projects
 
 This repository showcases a collection of projects demonstrating my capabilities in **[SQL](https://github.com/bachbaongan/Portfolio/blob/main/README.md#sql)**, **[Python](https://github.com/bachbaongan/Portfolio/blob/main/README.md#python)**, **[R](https://github.com/bachbaongan/Portfolio/blob/main/README.md#r)**, and **[Tableau](https://public.tableau.com/app/profile/clara.bach/vizzes)**. You can find detailed descriptions and code for each project on the dedicated [Portfolio](https://github.com/bachbaongan/Portfolio) page.
 

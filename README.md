@@ -1,6 +1,7 @@
 
 # 👋 Hello, I'm Clara Bach!
 
+![example workflow](https://github.com/bachbaongan/bachbaongan/actions/workflows/ci.yml/badge.svg)
 ## 🌟 About Me
 
 I am a highly motivated data enthusiast with a strong foundation in finance and banking principles. My passion lies in leveraging data to uncover actionable insights and drive informed decision-making. I possess a keen analytical mindset and a proactive approach to problem-solving, consistently seeking opportunities to apply data analysis techniques to real-world challenges. I am eager to contribute my skills to a dynamic team and further develop my expertise in the field of data science. I am particularly interested in roles focused on financial data analysis, modelling, and visualization. 
